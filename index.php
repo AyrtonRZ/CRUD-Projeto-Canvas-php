@@ -27,12 +27,6 @@
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
   <link href="assets/css/main.css" rel="stylesheet">
   <title>O Canvas de Usabilidade</title>
-  <!-- =======================================================
-  * Template Name: Impact - v1.1.1
-  * Template URL: https://bootstrapmade.com/impact-bootstrap-business-website-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 <body>
   <!-- ======= Header ======= -->
@@ -45,8 +39,7 @@
       <div class="social-links d-none d-md-flex align-items-center">
         <a href="https://www.facebook.com/ocanvasdeusabilidade/" class="facebook"><i class="bi bi-facebook"></i></a>
         <a href="https://www.instagram.com/ocanvasdeusabilidade/" class="instagram"><i class="bi bi-instagram"></i></a>
-        <a href="https://web.whatsapp.com/" class="whatsapp"><i class="bi bi-whatsapp"></i></a>
-       
+        <a href="https://web.whatsapp.com/" class="whatsapp"><i class="bi bi-whatsapp"></i></a>     
       </div>
     </div>
   </section><!-- End Top Bar -->
